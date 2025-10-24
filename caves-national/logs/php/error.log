@@ -1,0 +1,79 @@
+[30-May-2022 13:53:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_queried_object() on null in C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\query.php:44
+Stack trace:
+#0 C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\category.php(4): get_queried_object()
+#1 C:\Users\niki-\Local Sites\caves-national\app\public\wp-settings.php(203): require('C:\\Users\\niki-\\...')
+#2 C:\Users\niki-\Local Sites\caves-national\app\public\wp-config.php(91): require_once('C:\\Users\\niki-\\...')
+#3 C:\Users\niki-\Local Sites\caves-national\app\public\wp-load.php(50): require_once('C:\\Users\\niki-\\...')
+#4 C:\Users\niki-\Local Sites\caves-national\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\niki-\\...')
+#5 {main}
+  thrown in C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\query.php on line 44
+[30-May-2022 13:53:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_queried_object() on null in C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\query.php:44
+Stack trace:
+#0 C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\category.php(4): get_queried_object()
+#1 C:\Users\niki-\Local Sites\caves-national\app\public\wp-settings.php(203): require('C:\\Users\\niki-\\...')
+#2 C:\Users\niki-\Local Sites\caves-national\app\public\wp-config.php(91): require_once('C:\\Users\\niki-\\...')
+#3 C:\Users\niki-\Local Sites\caves-national\app\public\wp-load.php(50): require_once('C:\\Users\\niki-\\...')
+#4 C:\Users\niki-\Local Sites\caves-national\app\public\wp-blog-header.php(13): require_once('C:\\Users\\niki-\\...')
+#5 C:\Users\niki-\Local Sites\caves-national\app\public\index.php(17): require('C:\\Users\\niki-\\...')
+#6 {main}
+  thrown in C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\query.php on line 44
+[30-May-2022 13:54:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_queried_object() on null in C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\query.php:44
+Stack trace:
+#0 C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\category.php(4): get_queried_object()
+#1 C:\Users\niki-\Local Sites\caves-national\app\public\wp-settings.php(203): require('C:\\Users\\niki-\\...')
+#2 C:\Users\niki-\Local Sites\caves-national\app\public\wp-config.php(91): require_once('C:\\Users\\niki-\\...')
+#3 C:\Users\niki-\Local Sites\caves-national\app\public\wp-load.php(50): require_once('C:\\Users\\niki-\\...')
+#4 C:\Users\niki-\Local Sites\caves-national\app\public\wp-blog-header.php(13): require_once('C:\\Users\\niki-\\...')
+#5 C:\Users\niki-\Local Sites\caves-national\app\public\index.php(17): require('C:\\Users\\niki-\\...')
+#6 {main}
+  thrown in C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\query.php on line 44
+[30-May-2022 13:54:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_queried_object() on null in C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\query.php:44
+Stack trace:
+#0 C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\category.php(4): get_queried_object()
+#1 C:\Users\niki-\Local Sites\caves-national\app\public\wp-settings.php(203): require('C:\\Users\\niki-\\...')
+#2 C:\Users\niki-\Local Sites\caves-national\app\public\wp-config.php(91): require_once('C:\\Users\\niki-\\...')
+#3 C:\Users\niki-\Local Sites\caves-national\app\public\wp-load.php(50): require_once('C:\\Users\\niki-\\...')
+#4 C:\Users\niki-\Local Sites\caves-national\app\public\wp-blog-header.php(13): require_once('C:\\Users\\niki-\\...')
+#5 C:\Users\niki-\Local Sites\caves-national\app\public\index.php(17): require('C:\\Users\\niki-\\...')
+#6 {main}
+  thrown in C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\query.php on line 44
+[30-May-2022 13:55:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_queried_object() on null in C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\query.php:44
+Stack trace:
+#0 C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\category-template.php(3): get_queried_object()
+#1 C:\Users\niki-\Local Sites\caves-national\app\public\wp-settings.php(206): require('C:\\Users\\niki-\\...')
+#2 C:\Users\niki-\Local Sites\caves-national\app\public\wp-config.php(91): require_once('C:\\Users\\niki-\\...')
+#3 C:\Users\niki-\Local Sites\caves-national\app\public\wp-load.php(50): require_once('C:\\Users\\niki-\\...')
+#4 C:\Users\niki-\Local Sites\caves-national\app\public\wp-blog-header.php(13): require_once('C:\\Users\\niki-\\...')
+#5 C:\Users\niki-\Local Sites\caves-national\app\public\index.php(17): require('C:\\Users\\niki-\\...')
+#6 {main}
+  thrown in C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\query.php on line 44
+[30-May-2022 13:55:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_queried_object() on null in C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\query.php:44
+Stack trace:
+#0 C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\category-template.php(3): get_queried_object()
+#1 C:\Users\niki-\Local Sites\caves-national\app\public\wp-settings.php(206): require('C:\\Users\\niki-\\...')
+#2 C:\Users\niki-\Local Sites\caves-national\app\public\wp-config.php(91): require_once('C:\\Users\\niki-\\...')
+#3 C:\Users\niki-\Local Sites\caves-national\app\public\wp-load.php(50): require_once('C:\\Users\\niki-\\...')
+#4 C:\Users\niki-\Local Sites\caves-national\app\public\wp-blog-header.php(13): require_once('C:\\Users\\niki-\\...')
+#5 C:\Users\niki-\Local Sites\caves-national\app\public\index.php(17): require('C:\\Users\\niki-\\...')
+#6 {main}
+  thrown in C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\query.php on line 44
+[30-May-2022 13:55:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_queried_object() on null in C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\query.php:44
+Stack trace:
+#0 C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\category-template.php(3): get_queried_object()
+#1 C:\Users\niki-\Local Sites\caves-national\app\public\wp-settings.php(206): require('C:\\Users\\niki-\\...')
+#2 C:\Users\niki-\Local Sites\caves-national\app\public\wp-config.php(91): require_once('C:\\Users\\niki-\\...')
+#3 C:\Users\niki-\Local Sites\caves-national\app\public\wp-load.php(50): require_once('C:\\Users\\niki-\\...')
+#4 C:\Users\niki-\Local Sites\caves-national\app\public\wp-blog-header.php(13): require_once('C:\\Users\\niki-\\...')
+#5 C:\Users\niki-\Local Sites\caves-national\app\public\index.php(17): require('C:\\Users\\niki-\\...')
+#6 {main}
+  thrown in C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\query.php on line 44
+[30-May-2022 13:55:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_queried_object() on null in C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\query.php:44
+Stack trace:
+#0 C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\category-template.php(3): get_queried_object()
+#1 C:\Users\niki-\Local Sites\caves-national\app\public\wp-settings.php(206): require('C:\\Users\\niki-\\...')
+#2 C:\Users\niki-\Local Sites\caves-national\app\public\wp-config.php(91): require_once('C:\\Users\\niki-\\...')
+#3 C:\Users\niki-\Local Sites\caves-national\app\public\wp-load.php(50): require_once('C:\\Users\\niki-\\...')
+#4 C:\Users\niki-\Local Sites\caves-national\app\public\wp-blog-header.php(13): require_once('C:\\Users\\niki-\\...')
+#5 C:\Users\niki-\Local Sites\caves-national\app\public\index.php(17): require('C:\\Users\\niki-\\...')
+#6 {main}
+  thrown in C:\Users\niki-\Local Sites\caves-national\app\public\wp-includes\query.php on line 44

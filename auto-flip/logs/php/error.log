@@ -1,0 +1,2 @@
+[19-Oct-2025 10:34:59 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in C:\Users\niki-\Local Sites\auto-flip\app\public\wp-admin\includes\class-theme-upgrader.php on line 160
+[19-Oct-2025 10:46:50 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in C:\Users\niki-\Local Sites\auto-flip\app\public\wp-admin\includes\class-theme-upgrader.php on line 160
